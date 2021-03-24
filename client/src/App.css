@@ -1,0 +1,68 @@
+body{
+  background-color: rgb(2, 54, 78);
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(2, 54, 78);
+  color: aliceblue;
+  height: 100vh;
+}
+
+
+h1{
+  padding-top: 20px;
+  font-size: 40px;
+}
+
+
+table{
+  width: 300px;
+  margin: 0 auto;
+}
+
+
+table button{
+  margin: 10px;
+}
+
+.add-link{
+
+  color: #61dafb;
+}
+
+.add-new{
+  color: #61dafb;
+}
+
+.container{
+  border: 2px solid aliceblue;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.render-authors{
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+.dash-butt{
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.dash-butt button{
+  width: 100px;
+  height: 28px;
+  background-color: rgb(25, 0, 114);
+  border:none;
+  border-radius: 5px;
+  color: aliceblue;
+  margin-top: 12px;
+  margin-right: 8px;
+}
